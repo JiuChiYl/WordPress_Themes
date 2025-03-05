@@ -2,3 +2,4 @@
 * https://aj0.cn/category/zhuti
 * https://github.com/muchenkezhan/wordpress-qzdy-themes
 * https://aj0.cn/zhuti/51.html
+* https://github.com/solstice23/argon-theme
